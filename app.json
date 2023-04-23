@@ -43,7 +43,7 @@
              },
              "OWN_NUMBER": {
             "description": "",
-            "value": "94xxxxxxxxx" ,
+            "value": "94771682959" ,
             "required": true
              },
        
@@ -56,12 +56,12 @@
            "URL_1NAME": {
             "description": "",
             "value": "🎊INSTAGRAM🎊" ,
-            "required": true
+            "required": false
       },
            "URL_1LINK": {
             "description": "",
             "value": "https://www.instagram.com/__.sanuwa.__/" ,
-            "required": true
+            "required": false
       },
      "URL_2NAME": {
             "description": "",
@@ -75,7 +75,7 @@
       },
        "FOOTER": {
             "description": "",
-            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰𝙱𝙾𝚃 ²⁰²²" ,
+            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 ᴛᴛ ᴛᴇᴄʜ ꜱʟ ₂₀₂₃" ,
             "required": true
       },
      "ANTI_LINK": {
@@ -85,7 +85,7 @@
       },
        "CAPTION": {
             "description": "",
-            "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰 ²⁰²²" ,
+            "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 ᴛᴛ ᴛᴇᴄʜ ꜱʟ ₂₀₂₃" ,
             "required": true
       },
        "INBOX_BLOCK": {
@@ -141,7 +141,7 @@
       },
           "STIC_WM": {
             "description": "",
-            "value": "⛲αqυα ⃨𝚋oƚ ࿐" ,
+            "value": "⛲ᴛᴛ ʙᴏᴛ ࿐" ,
             "required": true
       },
           "WORK_TYPE": {
