@@ -1,5 +1,5 @@
 {
-    "name": "Aquabot - MD",
+    "name": "TT BOT MD",
     "description": "AQUABOT  - Makes it easy and fun to use Whatsapp.",
     "logo": "https://i.ibb.co/V9jYrQC/aqua-md.jpg",
     "keywords": ["whatsapp", "userbot", "aqua", "bot", "ai" , "MD" ],
@@ -38,12 +38,12 @@
              },
             "OWN_NAME": {
             "description": "",
-            "value": "your name" ,
+            "value": "THEEKSHANA THASHU" ,
             "required": true
              },
              "OWN_NUMBER": {
             "description": "",
-            "value": "94xxxxxxxxx" ,
+            "value": "94771682959" ,
             "required": true
              },
        
@@ -75,7 +75,7 @@
       },
        "FOOTER": {
             "description": "",
-            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰𝙱𝙾𝚃 ²⁰²²" ,
+            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝚃𝚃 𝙱𝙾𝚃 ₂₀₂₃" ,
             "required": true
       },
      "ANTI_LINK": {
@@ -85,7 +85,7 @@
       },
        "CAPTION": {
             "description": "",
-            "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰 ²⁰²²" ,
+            "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 TT MODZ ₂₀₂₃" ,
             "required": true
       },
        "INBOX_BLOCK": {
@@ -141,7 +141,7 @@
       },
           "STIC_WM": {
             "description": "",
-            "value": "⛲αqυα ⃨𝚋oƚ ࿐" ,
+            "value": "⛲TT ⃨𝚋oƚ ࿐" ,
             "required": true
       },
           "WORK_TYPE": {
