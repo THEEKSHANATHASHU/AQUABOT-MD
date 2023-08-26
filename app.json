@@ -1,6 +1,6 @@
 {
     "name": "TT BOT MD",
-    "description": "AQUABOT  - Makes it easy and fun to use Whatsapp.",
+    "description": "TTBOT  - Makes it easy and fun to use Whatsapp.",
     "logo": "https://i.ibb.co/V9jYrQC/aqua-md.jpg",
     "keywords": ["whatsapp", "userbot", "aqua", "bot", "ai" , "MD" ],
     "repository": "https://github.com/sanuwaofficial/AQUABOT-MD",
@@ -146,7 +146,7 @@
       },
           "WORK_TYPE": {
             "description": "",
-            "value": "public" ,
+            "value": "private" ,
             "required": true
       },
          "SUDO": {
